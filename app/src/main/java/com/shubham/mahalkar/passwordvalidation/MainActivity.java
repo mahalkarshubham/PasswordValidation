@@ -166,3 +166,5 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 }
+
+// Ready to use :)
